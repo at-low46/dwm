@@ -10,6 +10,8 @@ Requirements
 ------------
 In order to build dwm you need the Xlib header files.
 
+(Optional) The provided [config.h](config.h) requires a font with kanji support to be installed. As an alternative, you can edit the value of the `tags` variable (e.g. using the default values in [config.def.h](config.def.h))
+
 
 Patches
 -------
