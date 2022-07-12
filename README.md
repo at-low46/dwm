@@ -15,6 +15,10 @@ Patches
 -------
 The website has a [list of community patches](https://dwm.suckless.org/patches/).
 
+The following patches were applied:
+
+- [fibonacci layouts](https://dwm.suckless.org/patches/fibonacci/)
+
 To manually apply a patch, run:
 
 	patch -p1 < path/to/patch.diff
@@ -105,3 +109,5 @@ In jurisdictions that recognize copyright laws, the following licenses apply:
 [dwm](https://git.suckless.org/dwm) is available under the [MIT/X Consortium License](LICENSES/MIT).
 
 Everything made by me is under [The Unlicense](LICENSES/UNLICENSE).
+
+For patches, refer to their individual pages linked above for details.
