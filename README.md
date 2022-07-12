@@ -17,6 +17,7 @@ The website has a [list of community patches](https://dwm.suckless.org/patches/)
 
 The following patches were applied:
 
+- [alpha](https://dwm.suckless.org/patches/alpha/)
 - [fibonacci layouts](https://dwm.suckless.org/patches/fibonacci/)
 
 To manually apply a patch, run:
